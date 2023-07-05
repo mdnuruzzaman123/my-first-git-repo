@@ -4,3 +4,10 @@ div {
     padding:5px 100px 5px 1px ;
     margin: 0px;
 }
+h1 {
+  font-size: 50px;
+  font-weight:lighter;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 10px;
+  
+}
